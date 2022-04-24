@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296393017249",
+    "firebase_url": "https://foodtag-80def.firebaseio.com",
+    "project_id": "foodtag-80def",
+    "storage_bucket": "foodtag-80def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296393017249:android:e00c8a71c2a6b1d9",
+        "android_client_info": {
+          "package_name": "cc.srinivaschanti.foodtag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296393017249-vh1df8id7qn9rd55248n196jd28u58th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cc.srinivaschanti.foodtag",
+            "certificate_hash": "a7b737e3010d02d6182f4eb9e509fadd613c81ba"
+          }
+        },
+        {
+          "client_id": "296393017249-uctumfb74bk7b8hmdpcqib0otn1c4uhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2cVTxkfAFwQl4E5KYN9lerTdw1vmitUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296393017249-uctumfb74bk7b8hmdpcqib0otn1c4uhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
